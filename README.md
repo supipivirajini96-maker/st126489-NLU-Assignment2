@@ -123,11 +123,13 @@ http://127.0.0.1:8050/
 > *(Add screenshots after running the app and commit them to a `screenshots/` folder)*
 
 ```markdown
-![Web App Interface]([screenshots/app_ui.png](https://github.com/supipivirajini96-maker/st126489-NLU-Assignment2/blob/main/app/Webpage%20images/Screenshot%202026-02-01%20205423.png))
-![Text Generation Example](screenshots/text_generation.png)
+## 📸 Screenshots
+
+![Web Application Interface](app/Webpage%20images/Screenshot%202026-02-01%20205423.png)
+
 ```
 
----
+
 
 
 
