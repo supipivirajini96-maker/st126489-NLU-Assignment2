@@ -114,19 +114,16 @@ http://127.0.0.1:8050/
 │   └── hp7.txt
 ├── requirements.txt
 └── README.md
-```
 
----
 
-## 📸 Screenshot
-
-```markdown
 ## 📸 Screenshots
+
+### Web Application Interface
+This screenshot shows the Dash-based web interface with the input prompt and generated output.
 
 ![Web Application Interface](app/Webpage%20images/Screenshot%202026-02-01%20205423.png)
 
 
-```
 
 
 
