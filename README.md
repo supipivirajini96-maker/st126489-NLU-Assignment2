@@ -118,16 +118,16 @@ http://127.0.0.1:8050/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots after running the app and commit them to a `screenshots/` folder)*
+## 📸 Screenshot
 
 ```markdown
 ## 📸 Screenshots
 
 ![Web Application Interface](app/Webpage%20images/Screenshot%202026-02-01%20205423.png)
 
+
 ```
+
 
 
 
